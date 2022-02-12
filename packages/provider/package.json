@@ -17,7 +17,7 @@
     "lint-fix": "eslint --fix \"src/**/*\" && prettier --write \"src/**/*\""
   },
   "devDependencies": {
-    "mocha": "^8.2.1"
+    "mocha": "^9.2.0"
   },
   "dependencies": {
     "@cosmjs/encoding": "^0.24.0-alpha.25",
