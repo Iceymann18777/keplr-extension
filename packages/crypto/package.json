@@ -21,7 +21,7 @@
     "@types/crypto-js": "^4.0.1",
     "@types/elliptic": "^6.4.12",
     "@types/sha.js": "^2.4.0",
-    "mocha": "^8.2.1"
+    "mocha": "^9.2.0"
   },
   "dependencies": {
     "bip32": "^2.0.6",
